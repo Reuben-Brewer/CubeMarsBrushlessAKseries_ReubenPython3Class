@@ -96,5 +96,7 @@ CubeMarsBrushlessAKseries_ReubenPython3Class, ListOfModuleDependencies_All:['ftd
 
 Note that the code will work just fine without 'ftd2xx' but will be unable to set the Latency Timer programatically for FTDI USB-to-serial converters.
 
+Note that 'PyCRC.CRCCCITT' is installed via "sudo pip install pythoncrc" (NOT pycrc).
+
 ###########################
 
